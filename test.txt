@@ -1,2 +1,10 @@
 this is a test file for pushing it to the remote repository on github.
 Thanks
+
+之前曾用公司的电脑尝试远程推送，然后一直出现一种错误
+key_exchange_identification: read: connection reset by peer
+fatal: could not read from remote repository.
+
+后面使用自己的电脑相同的操作直接就能成功，猜想应该是公司的电脑有一些权限的问题。
+
+增加一段备注，再次推送一下，哈哈。
